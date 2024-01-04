@@ -1,0 +1,7 @@
+Salt and Pepper Noise
+Params: {'bigWindow': 20, 'smallWindow': 4, 'h': 1, 'scale': 2}
+NOISY,GAUSSIAN FILTER on NOISE,NLM FILTER on NOISE
+20.689378731617076,22.626106729033552,33.597522191463
+
+390.0575499534607
+
